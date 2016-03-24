@@ -17,5 +17,6 @@ public class Calculadora {
 		return a / b;
 	}
 	
+//Edição Felipe Queiroz
 
 }
